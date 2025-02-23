@@ -1,0 +1,4 @@
+config.sh
+*.log
+.DS_Store
+.env
