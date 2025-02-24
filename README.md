@@ -24,5 +24,6 @@ Automated maintenance script for Proxmox VE that handles system updates, contain
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/proxmox-maintainer.git
-cd proxmox-maintainer
+git clone https://github.com/lowrisk75/ProxmoxMaintenance.git
+cd ProxmoxMaintenance
+
